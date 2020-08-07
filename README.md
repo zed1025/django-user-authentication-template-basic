@@ -17,3 +17,10 @@
 - signup
 - password change
 - password reset(using terminal)
+
+
+## How to use
+- make sure you have the required modules installed
+- `cd` into __django-user-authentication-template-basic__ folder
+- run `python manage.py makemigrations users` and then `python manage.py` migrate
+- create a superuser
